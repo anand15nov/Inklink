@@ -1,7 +1,11 @@
 
 Introducing InkLink, the ultimate destination for expressive writing and creative sharing. Seamlessly blending functionality and style, InkLink is a cross-platform Flutter application available on both iOS and Android devices.
 
-With its sleek interface and intuitive design, InkLink offers a seamless sign-in and sign-up experience through email authentication powered by Supabase. This ensures a secure and hassle-free journey into the realm of creative expression.
+With its sleek interface and intuitive design, InkLink offers a seamless sign-in and sign-up experience through email authentication powered by Supabase. This ensures a secure and hassle-free 
+
+https://github.com/anand15nov/Inklink/assets/158162199/28ee7894-7fdd-4010-8e49-6eeecdc6c945
+
+journey into the realm of creative expression.
 
 Harnessing the power of SQL queries, InkLink efficiently manages the storage of all content within the app on Supabase, ensuring reliability and scalability. Whether online or offline, users can engage with the platform effortlessly, thanks to InkLink's adaptive architecture.
 
